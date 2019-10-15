@@ -9,7 +9,6 @@
 ```
 AWSAccessKey=""
 MWSAuthToken=""
-MarketplaceID=""
 SellerId=""
 Secret=""
 ```
